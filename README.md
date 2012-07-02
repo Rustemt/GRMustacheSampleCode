@@ -1,4 +1,4 @@
-# GRMustacheSampleCode
+# GRMustache Sample Code
 
 This repository contains Xcode projects that demonstrate how you can use [GRMustache](https://github.com/groue/GRMustache).
 
