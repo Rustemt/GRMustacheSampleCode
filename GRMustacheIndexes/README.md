@@ -1,5 +1,5 @@
 # GRMustacheIndexes
 
-A project that demonstrates how [GRMustache](https://github.com/groue/GRMustache) can render array indexes.
+How to have [GRMustache](https://github.com/groue/GRMustache) render array indexes, render sections for the first or the last element, for odd or even elements, etc.
 
-For a discussion on how it works, see https://github.com/groue/GRMustache/blob/master/Guides/sample_code/indexes.md
+Companion guide: https://github.com/groue/GRMustache/blob/master/Guides/sample_code/indexes.md
