@@ -14,3 +14,6 @@ This repository contains Xcode projects that demonstrate how you can use [GRMust
     
     Companion guide: https://github.com/groue/GRMustache/blob/master/Guides/sample_code/indexes.md
 
+- [GRMustacheLayout](GRMustacheSampleCode/tree/master/GRMustacheLayout)
+    
+    It is a common pattern to use a template as a wrapper for other templates. This "layout" may include a header and a footer, for instance.
